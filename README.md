@@ -1,7 +1,7 @@
 <h1 align="center"> JAWAD-MD V-1.0 </h1>
 
 <p align="center">
-  <a href="https://github.com/JawadYTX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=JAWAD-MD-+v1.2+MultiDevice;Developed+by+JawadYTX;Give+star+and+forks+this+Repo+🌟" alt="JawadYTXReadme"></a>
+  <a href="https://github.com/JawadYTX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=JAWAD-MD-+v1.0+MultiDevice;Developed+by+JawadYTX;Give+star+and+forks+this+Repo+🌟" alt="JawadYTXReadme"></a>
 </p>
 
 <details>
@@ -11,7 +11,7 @@
 
 - **Reply With Status Seen Added.**
  
-- **Fixed Gpt/Gpt4 Command Now.**
+- **Added Cantrol Bot Via Commands.**
  
 - **Overall Performance Improved.**
 
@@ -48,7 +48,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 Click on Paring Code To Get Seasion ID To Start The JAWAD-MD If Getting Error Use VPN
 
-<a href='ht' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://khanmdx.onrender.com' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## **DEPLOY TO HEROKU**
 
@@ -110,6 +110,20 @@ Click on Paring Code To Get Seasion ID To Start The JAWAD-MD If Getting Error Us
    #### DEPLOY TO RAILWAY
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+
+--------
+
+## 🔗 JAWAD-MD INFO
+
+  <p align="center">
+<a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/JAWAD-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYTX/JAWAD-MD?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/JAWAD-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYTX/JAWAD-MD?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/JAWAD-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYTX/JAWAD-MD?style=square&color=green"></a>
+<a href="https://github.com/JawadYTX/JAWAD-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+
+ <p align="center">
+<a href="https://github.com/JawadYTX/JAWAD-MD/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/JawadYTX/JAWAD-MD?color=green&label=License&style=square"></a>
 
 --------
 
