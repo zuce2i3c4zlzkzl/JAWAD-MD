@@ -64,7 +64,7 @@ Click on Paring Code To Get Seasion ID To Start The JAWAD-MD If Getting Error Us
 
    Once your Heroku account is ready, deploy the bot by clicking the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/JawadYTX/JAWAD-MD/tree/main)
 
 
 ## **DEPLOY TO KOYEB**
@@ -107,9 +107,16 @@ Click on Paring Code To Get Seasion ID To Start The JAWAD-MD If Getting Error Us
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 --------
+
    #### DEPLOY TO RAILWAY
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+
+--------
+
+   #### DEPLOY TO WORKFLOW 
+
+<a href='https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/851' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/WORKFLOW-h?color=dark-blue&style=for-the-badge&logo=github'/></a></p>
 
 --------
 
