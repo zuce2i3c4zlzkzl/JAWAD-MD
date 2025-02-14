@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/JawadYTX"><img title="Author" src="https://img.shields.io/badge/JawadYTX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JawadYTX"><img title="Author" src="https://img.shields.io/badge/JawadYTX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb5n6oH0QeaoT1Shcn35"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{JAWAD-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
 
@@ -138,7 +138,7 @@ Click on Paring Code To Get Seasion ID To Start The JAWAD-MD If Getting Error Us
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5n6oH0QeaoT1Shcn35)
 
 
 ## ⚠️ Reminder
