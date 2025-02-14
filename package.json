@@ -1,13 +1,13 @@
 {
   "name": "JAWAD-MD",
   "version": "10.8.1",
-  "description": "JAWAD-XMD latest multi device whatsapp bot",
+  "description": "JAWAD-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-XMD",
-    "stop": "pm2 stop JAWAD-XMD",
-    "restart": "pm2 restart JAWAD-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-MD",
+    "stop": "pm2 stop JAWAD-MD",
+    "restart": "pm2 restart JAWAD-MD"
   },
   "keywords": ["jawad-md", "whatsapp-bot", "whatsapp md bot"],
   "author": "JawadTechX",
@@ -31,6 +31,7 @@
     "ffmpeg": "^0.0.4",
     "file-type": "^19.0.0",
     "fluent-ffmpeg": "^2.1.3",
+    "megajs": "^1.1.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
     "gifted-dls": "^1.3.0",
