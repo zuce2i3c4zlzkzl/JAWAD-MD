@@ -13,6 +13,7 @@ const ping = async (m, Matrix) => {
     const reactionEmoji = reactionEmojis[Math.floor(Math.random() * reactionEmojis.length)];
     let textEmoji = textEmojis[Math.floor(Math.random() * textEmojis.length)];
 
+    // Ensure reaction and text emojis are different
     while (textEmoji === reactionEmoji) {
       textEmoji = textEmojis[Math.floor(Math.random() * textEmojis.length)];
     }
@@ -31,7 +32,7 @@ const ping = async (m, Matrix) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363354023106228@newsletter',
+          newsletterJid: '120363398040175935@newsletter',
           newsletterName: "JawadTechX",
           serverMessageId: 143
         }
