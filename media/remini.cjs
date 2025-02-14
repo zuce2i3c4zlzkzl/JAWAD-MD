@@ -1,51 +1,57 @@
-//KHAN-MD-V1
-
 const FormData = require("form-data");
-async function remini(_0x33b965, _0x34eff3) {
-  return new Promise(async (_0x14db15, _0x267c15) => {
-    let _0x45d85b = ['enhance', "recolor", "dehaze"];
-    if (_0x45d85b.includes(_0x34eff3)) {
-      _0x34eff3 = _0x34eff3;
-    } else {
-      _0x34eff3 = _0x45d85b[0x0];
+
+async function remini(imageBuffer, mode) {
+  return new Promise(async (resolve, reject) => {
+    let availableModes = ["enhance", "recolor", "dehaze"];
+    
+    // Ensure mode is valid
+    if (!availableModes.includes(mode)) {
+      mode = "enhance"; // Default to 'enhance'
     }
-    let _0x370778 = new FormData();
-    let _0x5c019f = "https://inferenceengine.vyro.ai/" + _0x34eff3;
-    _0x370778.append("model_version", 0x1, {
+
+    let formData = new FormData();
+    let apiUrl = `https://inferenceengine.vyro.ai/${mode}`;
+
+    formData.append("model_version", 1, {
       'Content-Transfer-Encoding': "binary",
-      'contentType': "multipart/form-data; charset=uttf-8"
+      'contentType': "multipart/form-data; charset=utf-8"
     });
-    _0x370778.append('image', Buffer.from(_0x33b965), {
+
+    formData.append("image", Buffer.from(imageBuffer), {
       'filename': "enhance_image_body.jpg",
       'contentType': "image/jpeg"
     });
-    _0x370778.submit({
-      'url': _0x5c019f,
+
+    formData.submit({
+      'url': apiUrl,
       'host': "inferenceengine.vyro.ai",
-      'path': '/' + _0x34eff3,
+      'path': `/${mode}`,
       'protocol': "https:",
       'headers': {
         'User-Agent': 'okhttp/4.9.3',
         'Connection': "Keep-Alive",
         'Accept-Encoding': "gzip"
       }
-    }, function (_0x319120, _0x175e8d) {
-      if (_0x319120) {
-        _0x267c15();
+    }, function (error, response) {
+      if (error) {
+        return reject(error);
       }
-      let _0x15e24d = [];
-      _0x175e8d.on('data', function (_0x2918a5, _0x2d4e53) {
-        _0x15e24d.push(_0x2918a5);
-      }).on("end", () => {
-        _0x14db15(Buffer.concat(_0x15e24d));
+
+      let responseData = [];
+      
+      response.on("data", (chunk) => {
+        responseData.push(chunk);
       });
-      _0x175e8d.on("error", _0x90e19c => {
-        _0x267c15();
+
+      response.on("end", () => {
+        resolve(Buffer.concat(responseData));
+      });
+
+      response.on("error", (err) => {
+        reject(err);
       });
     });
   });
 }
+
 module.exports.remini = remini;
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
